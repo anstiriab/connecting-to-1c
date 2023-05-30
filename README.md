@@ -1,7 +1,6 @@
 ## Python-script for send mails about results of 1c scheduled jobs
 
 ### 1. Install
-`$ git clone https://github.com/anavozhko/connecting-to-1c`
 
 Install package pypiwin32, if you don`t have it:
 ```
